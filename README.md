@@ -8,11 +8,11 @@
 
 - [ ] [**Boas vindas ao Avanade Angular Developer**](#boas-vindas-ao-avanade-angular-developer)
 - [x] [**Bem vindo à DIO**](#bem-vindo-à-dio)
-- [x] [**Lógica de programação essencial**](lógica-de-programação-essencial)
-- [ ] [**Aprenda o que são Estrutura de Dados e Algoritmos**](aprenda-o-que-são-estrutura-de-dados-e-algoritmos)
-- [x] **Introdução a criação de websites com HTML5 e CSS3**
-- [x] **Programação para Internet com JavaScript**
-- [x] **Introdução ao Git e ao GitHub**
+- [x] [**Lógica de programação essencial**](#lógica-de-programação-essencial)
+- [ ] [**Aprenda o que são Estrutura de Dados e Algoritmos**](#aprenda-o-que-são-estrutura-de-dados-e-algoritmos)
+- [x] [**Introdução a criação de websites com HTML5 e CSS3**](#introdução-a-criação-de-websites-com-html5-e-css3)
+- [x] [**Programação para Internet com JavaScript**](#programação-para-internet-com-javascript)
+- [x] [**Introdução ao Git e ao GitHub**](#introdução-ao-git-e-ao-github)
 - [x] **Recriando a Interface do Netflix**
 - [x] **Recriando a página inicial do Instagram**
 - [x] **JavaScript ES6 essencial**
